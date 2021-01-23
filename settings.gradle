@@ -1,0 +1,3 @@
+include ':stt'
+include ':app'
+rootProject.name = "STT"
